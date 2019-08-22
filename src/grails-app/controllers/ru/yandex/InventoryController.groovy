@@ -16,4 +16,10 @@ class InventoryController {
     def remove() {
         render "Remove"
     }
+
+    def list() {
+        def allProducts = Product.list()
+
+        [allProducts: allProducts]
+    }
 }
