@@ -5353,3 +5353,5 @@ n:614:org/springframework/transaction/TransactionException
 n:429:grails/web/RequestParameter
 n:603:grails/validation/Validateable
 n:566:org/codehaus/groovy/grails/validation/Validateable
+n:2186:org/codehaus/groovy/grails/commons/GrailsApplication$addArtefact
+n:2275:org/codehaus/groovy/grails/commons/GrailsApplication$isArtefactOfType$0
