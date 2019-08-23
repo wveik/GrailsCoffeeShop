@@ -3,4 +3,7 @@ class CustomerController {
 
     static scaffold = true
 
+    def checkin() {
+
+    }
 }

@@ -5355,3 +5355,10 @@ n:603:grails/validation/Validateable
 n:566:org/codehaus/groovy/grails/validation/Validateable
 n:2186:org/codehaus/groovy/grails/commons/GrailsApplication$addArtefact
 n:2275:org/codehaus/groovy/grails/commons/GrailsApplication$isArtefactOfType$0
+n:1206:org/springframework/web/servlet/view/AbstractCachingViewResolver$1
+n:3030:org/springframework/context/support/MessageSourceAccessor
+n:1588:org/springframework/web/servlet/view/AbstractUrlBasedView
+n:11498:org/springframework/web/servlet/view/AbstractView
+n:290:org/springframework/scripting/ScriptSource
+n:287:org/codehaus/groovy/grails/web/pages/discovery/GroovyPageScriptSource
+n:3359:org/codehaus/groovy/grails/web/pages/discovery/GroovyPageCompiledScriptSource
